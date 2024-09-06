@@ -13,3 +13,8 @@ https://next-intl-docs.vercel.app/docs/getting-started/app-router/without-i18n-r
 3. visit browser: localhost:80
 done!
 
+# Testing - React Testing Library
+npm install --save-dev @testing-library/react @testing-library/dom vitest -D
+
+
+
